@@ -16,7 +16,7 @@ The application stores users and their Facebook Pages in a MySQL database and al
     MySQL
     Facebook Graph API (v19.0)
     Maven
-# Authentication Flow (JWT)
+## 1.Authentication Flow (JWT)
     1.Google Login (Mock)
     Endpoint : POST /auth/google
     Request
